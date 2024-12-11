@@ -1,17 +1,18 @@
 # Hi there, I'm Shashank S! 👋
 
-![Banner Image](https://ondemand.bannerbear.com/signedurl/OJ07pvDElJgVPmKbdB/image.jpg?modifications=W3sibmFtZSI6InJlcG8iLCJ0ZXh0IjoiU2hhc2hhbmtTcml2YXRzYVJhbyAvICpTaGFzaGFua1NyaXZhdHNhUmFvKiJ9LHsibmFtZSI6ImRlc2MiLCJ0ZXh0IjoiICJ9LHsibmFtZSI6ImF2YXRhcjUiLCJoaWRlIjp0cnVlfSx7Im5hbWUiOiJhdmF0YXI0IiwiaGlkZSI6dHJ1ZX0seyJuYW1lIjoiYXZhdGFyMyIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjIiLCJoaWRlIjp0cnVlfSx7Im5hbWUiOiJhdmF0YXIxIiwiaW1hZ2VfdXJsIjoiaHR0cHM6Ly9hdmF0YXJzLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzEzOTEzNzM1Nj92PTQifSx7Im5hbWUiOiJjb250cmlidXRvcnMiLCJ0ZXh0IjoiU2hhc2hhbmtTcml2YXRzYVJhbyJ9LHsibmFtZSI6InN0YXJzIiwidGV4dCI6IjAifV0&s=6dd9cfbb5f63f4b7269fe7a928e71d81edaa3c75debda629c74f2cafdcbff5e9)
+![Banner Image](https://th.bing.com/th/id/OIP.ZZsn6lD6PCjocBzx1tuu1QHaEo?w=307&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7)
 
 ## About Me 🚀
 
 I'm a passionate **Student** with experience in **Development,DevOps**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **SPRING_BOOT,DOCKER,KUBERNETES,TERRAFORM,AWS**
-- 🔭 Working on: **SMART AI PROJECT SUGGESTOR**
-- 🌍 Languages: **JAVA,PYTHON,C,HTML,CSS,JAVASCRIPT,SQL,ENGLISH<KANNADA**
+- 🌱 Currently learning: **Docker,AWS,Java Spring-Boot,SQL,Machine Learning and Kubernetes**
+- 🔭 Working on: **Interview Analyzer**
+- 🌍 Languages: **JAVA,PYTHON,C,HTML,CSS,JAVASCRIPT and SQL**
 - 📫 How to reach me: **shashankrao423@gmail.com**
 - ⚡ Fun fact: **I wrote this file exactly 2 years after I created an account**
 
+<!--
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,7 +43,7 @@ I'm a passionate **Student** with experience in **Development,DevOps**. I love t
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
-
+-->
 
 
 <!--
