@@ -10,7 +10,7 @@ I'm a passionate **Student** with experience in **Development,DevOps**. I love t
 - 🔭 Working on: **Interview Analyzer**
 - 🌍 Languages: **JAVA,PYTHON,C,HTML,CSS,JAVASCRIPT and SQL**
 - 📫 How to reach me: **shashankrao423@gmail.com**
-- ⚡ Fun fact: **I wrote this file exactly 2 years after I created an account**
+- ⚡ Fun fact: **GitHub hosts millions of repositories with open-source projects, libraries, and frameworks.**
 
 <!--
 ## My Skills 🧠
