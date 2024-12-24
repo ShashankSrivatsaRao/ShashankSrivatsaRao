@@ -1,6 +1,7 @@
 # Hi there, I'm Shashank S! 👋
 
-![Banner Image](https://th.bing.com/th/id/OIP.ZZsn6lD6PCjocBzx1tuu1QHaEo?w=307&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+![1000032609](https://github.com/user-attachments/assets/c18b7122-4ff9-44e6-acae-7a07548fa29d)
+
 
 ## About Me 🚀
 
